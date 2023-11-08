@@ -2,6 +2,11 @@
 
 This project is a quick 4 years old children friendly 2D shooting game demo based on `pygame` and `AI tools`
 
+**How to Run**
+
+1.  Install the `pygame` lib
+2.  Run `python main.py`
+
 **Work Assited by `AI tools`**
 
 1.  Based on the function description, generated the code snippet based on `pygame`. Assited by `ChatGPT-4`
